@@ -15,3 +15,4 @@ I think about nice page with a lot of features on one page like:
         
 - shop (fake)
 
+I will provide some pictures of my vision...soon
